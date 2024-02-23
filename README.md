@@ -58,9 +58,7 @@ python cryptobot.py
 
 Remember to place your keys, secrets, and tokens in the .env file. You can access the twitter developer site at the following hyperlink.
 
-<div>
-<a href="https://developer.twitter.com/en" target="_blank">
-</div>
+[Twitter](https://developer.twitter.com/en)
 
 ## Version History
 
