@@ -1,5 +1,4 @@
 import tweepy
-import requests
 from os import environ
 from time import sleep
 from dotenv import load_dotenv
